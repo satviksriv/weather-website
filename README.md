@@ -15,6 +15,8 @@
 
 [Weather Website](https://satvik-weather-application.herokuapp.com/)
 
+![Website demo video](./demo/weather-website-demo.gif)
+
 ## Description
 
 This is a weather website which shows the weather condition (obviously :/ ) of the location which user enters.
