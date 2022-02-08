@@ -24,7 +24,7 @@ This is a weather website which shows the weather condition (obviously :/ ) of t
 It uses two API endpoints to fetch the weather data.
 
 - [Geocoding](https://www.mapbox.com/): To get the latitude and longitude of the location entered by the user.
-- [Weather](https://weatherstack.com/): To get the weather condition of the location entered by the user bu utilizing the latitude and longitude provided by the Geocoding API.
+- [Weather](https://weatherstack.com/): To get the weather condition of the location entered by the user by utilizing the latitude and longitude provided by the Geocoding API.
 
 ## Features
 
